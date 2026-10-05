@@ -3,7 +3,6 @@ Using image processing and computer vision in MATLAB to develop a defect detecti
 
 
 ---
-  - <img width="500" alt="Screenshot 2024-12-31 at 11 56 57 AM" src="https://github.com/user-attachments/assets/4dfa0e95-b06c-4764-ba01-b6fa43af1514" />
 
 1. **Defect Detection Techniques**:
    - **Color-Based Segmentation**: Used for identifying regions with stains or discolorations.
